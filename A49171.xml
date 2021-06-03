@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Russel's speech vindicated</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49171</idno><idno type="EEBO-CITATION">11874018</idno>
+  <idno type="VID">50177</idno>
+  <idno type="EEBO-PROQUEST">2248512206</idno>
+  
+            <idno type="STC">Wing L3055A</idno>
+            <idno type="STC">ESTC R620</idno>
+            <idno type="OCLC">11874018</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A49171)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50177)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 501:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Russel's speech vindicated</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Will. Crook,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Broadside.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Russell, William, --  Lord, 1639-1683.</term>
+               <term type="genre_form">Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="rebuttal">
+            <pb facs="tcp:50177:1"/>
+            <pb n="1" facs="tcp:50177:1"/>
+            <head>THE <hi>Lord Russel's Speech</hi> VINDICATED.</head>
+            <p>IT can be no small Infelicity to the <hi>Relations</hi> and <hi>Admirers</hi> of the late Lord <hi>Russel,</hi> that as his Body escaped not the Violence of the Common Executioner, so his <hi>written Speech</hi> and <hi>last dying Words</hi> have not escaped the <hi>Animadversions</hi> and <hi>Remarks</hi> of divers subtile and satyrical Poems.</p>
+            <p>To answer each Animadverter and Remarker succinctly, and (as I may so say) in his own way, would swell this Paper into a Volume, and make it long and prolix, and render a greater Reputation to the Authors than the Cause will bear.</p>
+            <p>I therefore (designing Truth and Brevity) shall take notice of such Particulars only in the said Papers as seem to pinch most, and to reflect upon the <hi>Candor, Veracity,</hi> and <hi>Generosity</hi> of his Lordship, and which (in Truth and Sincerity) require an effectual Answer and Confu<g ref="char:EOLhyphen"/>tation.</p>
+            <p>To begin then, as to the first Fault found in this Lord's Speech, That a third part thereof is made up in Praises of himself and Family, and of his religious Education. I profess, I know not how to clear his Lordship or his Speech from this piece of Vanity, but by laving it upon the true Author; for though the Paper be under his Lordship's own Hand, there was the Brains and Pen of another Person (pretending to be a Spiritual Guide) in the com<g ref="char:EOLhyphen"/>piling it; as will more plainly appear when I come to treat of his Lordship's Religion. In the mean, take this of him, that he never deserved or gained any <hi>Dignity</hi> (or Cure of Souls) in the Church, That as he infests the Palaces and Houses of Princes and great Men, so (Pedler like) he trudges up and down with his Pack to visit the afflicted, with that Industry, that even the late Elm-Board in its groaning Fits, did not escape him. And I am apt to believe, that he, foreseeing he should not be permitted to preach or make his Lordships Pu<g ref="char:EOLhyphen"/>neral Oration or Sermon, in which he might have had opportunity to have <hi>mimick'd and lied lustily for him in the Pulpit,</hi> he put his Lordship upon the Vanity of doing it himself up<g ref="char:EOLhyphen"/>on the Scaffold.</p>
+            <p>In the next place, these Papers charge his Lordship with Equivocations, Tricks, and Eva<g ref="char:EOLhyphen"/>sions, and that his Lordship was very disingenious, first positively to deny the Knowledge of any Plot at all, and then in the same Breath to confess so much of it as he did. For Gods sake, Gentlemen, what would you be at? Do we not all know that the <hi>Presbyterian</hi> Zeal and Doctrine produced the very like Riddle with this Speech, I mean the <hi>Solemn League and Co<g ref="char:EOLhyphen"/>venant?</hi> And do we not also know, that his Lordship had his Education under one of the chief of those that with Sword and Pistol enforced that Covenant upon his Majesty's Liege People contrary and repugnant to the Oath of <hi>Allegiance?</hi> If this be so, my Friends, and that he who compiled the said Speech and clung to his Lordship even to and at the Block, came out of the <hi>Covenanting Country,</hi> pray tell me, whether in Reason or Conscience you could expect a better Speech or more Ingenuity. And now I should have ended this Para<g ref="char:EOLhyphen"/>graph, but that I cannot but laugh to see one of these Animadverters preaching to his dead Lordship upon the Oath of Allegiance, and the Obligation that thereby lay upon his Lord<g ref="char:EOLhyphen"/>ship and all others to discover all Treason, <hi>&amp;c.</hi> A most excellent Sermon I confess to the <hi>Li<g ref="char:EOLhyphen"/>ving;</hi> but why this to the <hi>Dead?</hi> All I shall here add is, that I heartily pray that the fore<g ref="char:EOLhyphen"/>mentioned <hi>living Compiler</hi> and <hi>his Disciples,</hi> and all others that have erred in that matter, may yet in <hi>this their day</hi> take Shame to them, and repent of their former Misdoings; so as that they may deserve and obtain his Sacred Majesty's Pardon here, and be capable of ever<g ref="char:EOLhyphen"/>lasting Happiness hereafter.</p>
+            <p>And now I am come to that part of the Speech which relates to his Lordship's Religion, wherein his Lordship asserts, that he dies of the <hi>Reformed Religion,</hi> a true and sincere Prote<g ref="char:EOLhyphen"/>stant, and in the Communion of the Church of <hi>England</hi> though he could never rise up to all the heights of many People: and herein they say his Lordship equivocates. I cannot see how this can properly be called Equivocation, though, I confess, it looks exactly like the Compiler's, <hi>viz. A Kind of a Linsey-Wolsey</hi> Religion. But pray Gent. would you have the Disciple greater than his <hi>Master?</hi> Alas! our Doctor could never get up to the height of ma<g ref="char:EOLhyphen"/>ny of his Brethren though he hath enough Spiritual Pride in him, and I believe more than
+<pb n="2" facs="tcp:50177:2"/>five hundred of them. And to shew you that this is a true Picture of him, and that he is fond of it, in a Sermon preached to a late great Assembly he takes upon him to <hi>animate</hi> them to a further Reformation of this established <hi>Church;</hi> and to immortalize his Zeal therein, he hath imposed upon this unfortunate Lord, and inserted into that part of the Speech which re<g ref="char:EOLhyphen"/>lates to his Religion, a whole Sentence of that Sermon <hi>literatim;</hi> and not only so, but he hath made his Lordship's Speech (as to his Religion) as mysterious and unintelligible as his own Discourses and Sermons usually are. And for all his <hi>Grimace</hi>'s, his Whimprings, and Whinings, and other antick Gestures in the Pul<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, he is shrewdly suspected to be no better a Christian than <hi>Julian</hi> the <hi>Apostate.</hi>
+            </p>
+            <p>The Animadverter's next Exceptions are for his Lordship's expressing his fear for the co<g ref="char:EOLhyphen"/>ming in of <hi>Popery.</hi> A Topick they say cost many Millions of Money, and the late King, and divers of his Subjects, their Lives. Well Gentlemen, what then? Must we not there<g ref="char:EOLhyphen"/>fore fear Popery? nay, ought we not rather still to fear it? Though I confess, when I consi<g ref="char:EOLhyphen"/>der those many Laws against Popery, and how it's the <hi>Interest</hi> as well as the Duty of all <hi>Eng<g ref="char:EOLhyphen"/>lishmen</hi> to keep out Popery, when I consider no Papist can sit in either House of Parliament, or execute any Office of Trust either in Church or State, military or civil, to the degree of a Constable or private Sentinal; I cannot see any great Cause to fear Popery, nor can I ima<g ref="char:EOLhyphen"/>gine at which Point of the Compass it can possibly return into this Kingdom. But to pass that by, pray Gentlemen, Do you not know that <hi>Popery</hi> and <hi>Slavery</hi> are the <hi>Bugbears</hi> which create and keep up in the unthinking Mobile, <hi>Fears</hi> and <hi>Jealousies,</hi> with which Tools the Faction fought and vanquished the late King, and overturn'd the Government both in Church and State? Now if under the <hi>Ʋmbra</hi> of the Discovery of a <hi>Popish Plot</hi> the same Facti<g ref="char:EOLhyphen"/>ons are again at work, whetting and sharpening the same Tools in order to the Overthrow of his now Majesty and this Monarchy, Is it a Wonder if they are still industrious to lick and keep in shape their <hi>Bugbears</hi> of <hi>Popery</hi> and <hi>Slavery</hi> that have done them such Services already and from which they have such further Expectations, and without which the <hi>Good Old Cause</hi> would be crest-fallen.</p>
+            <p>The next matter which the Animadverters find fault with, is, to that part of his Lordship's Speech which relates to the King, wherein they would insinuate as if his Lordship libelled his Majesty. For my part, I think a more charitable Construction may be made thereof, and that no such Thoughts were in his Lordship. But I confess, I admire to find his Lordship's Prayer confined to the Person of the King only; we in the Church of <hi>England</hi> pray for the whole Royal Family. But when I reflect upon the Principles of the Compiler, and of the third Article in the Covenant, the Admiration ceaseth.</p>
+            <p>And now I have done with those Parts of his Lordship's Speech which I thought fit to vin<g ref="char:EOLhyphen"/>dicate; only I cannot but admire his Lordship's <hi>Charity,</hi> not only to forgive his <hi>Enemies,</hi> but to charge his Relations not to seek any <hi>Revenge:</hi> this indeed is transcendent. But it would have been further illustrated if his Lordship had discovered whom he meant by those <hi>Ene<g ref="char:EOLhyphen"/>mies,</hi> at least whether they were his <hi>Superiors</hi> or <hi>Inferiors.</hi> But the Compiler, I suppose, thought this would have been too plain, and have exposed his Lordship and the Party too much, and that it would be inconsistent with the rest of the <hi>Speech,</hi> viz. make one part of it <hi>intelligible.</hi>
+            </p>
+            <p>Now what more wou'd you have me say, nay, what more would I not further say, if it was possible to vindicate this Lord and his Speech, though I went to <hi>Sheppard</hi>'s on purpose to quicken my Fancy with a Bottle of his best <hi>Sherry?</hi> But alas, that wo'nt do! I am sorry his Lordship hath himself discovered his Pretence of going to <hi>Sheppard</hi>'s to taste Sherry to be a mere <hi>Sham.</hi> For, in the very next Paragraph, he tells us, he was invited thither by the D. of <hi>Monmouth,</hi> not to taste Sherry, but to meet their Companions, to consult how to pre<g ref="char:EOLhyphen"/>vent their undoing by the Lord <hi>Shaftsbury</hi> and other Hot-heads, and how to make some <hi>Stirrs,</hi> the quaintest Word that I ever yet read or heard made use of as a Mask or Veil to cover the Sin of Witchcraft, <hi>i.e.</hi> Rebellion.</p>
+            <p>I agree his Lordship admits himself no Lawyer; but yet before his Tryal did advise with Men able in that Profession, who (as his Lordship says) would not let him tell the naked Truth. This was well advised by the Lawyers. But when his Lordship came to dye, for the aforesaid Compiler to put his Lordship upon Tricks and Evasions, and a total Dissimu<g ref="char:EOLhyphen"/>lation with God and Man; was the Part of a <hi>Judas</hi> and not an <hi>Apostle.</hi>
+            </p>
+            <p>And now if <hi>Harry Care</hi> cannot be found, or will not re-assume his Pacquets and Courants, and therein (as formerly) libel the Government both in Church and State, cry up the Mo<g ref="char:EOLhyphen"/>desty and Peaceableness of the Dissenters, republish his <hi>Rawleigh Redivivus,</hi> and bellow out <hi>Encomiums</hi> on the late ungrateful Villain and Rebel <hi>Shaftsbury,</hi> what will become of the <hi>Whiggs</hi> this Plot will leave behind? </p>
+            <closer>Lord have Mercy on them.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Will. Crook,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
